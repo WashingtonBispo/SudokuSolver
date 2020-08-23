@@ -1,0 +1,2 @@
+# SudokuSolver
+Resolve alguns sudokus
